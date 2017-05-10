@@ -11,3 +11,5 @@
 [6 Letter Combinations of a Phone Number](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Letter%20Combinations%20of%20a%20Phone%20Number.java)
 
 [7 Valid Parentheses](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Valid%20Parentheses.java)
+
+[8 Merge Two Sorted Lists](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Merge%20Two%20Sorted%20Lists.java)
