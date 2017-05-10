@@ -13,3 +13,5 @@
 [7 Valid Parentheses](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Valid%20Parentheses.java)
 
 [8 Merge Two Sorted Lists](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Merge%20Two%20Sorted%20Lists.java)
+
+[9 Merge k Sorted Lists](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Merge%20k%20Sorted%20Lists.java)
