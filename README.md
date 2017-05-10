@@ -4,6 +4,8 @@
 
 [3 Longest Substring Without Repeating Characters](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Longest%20Substring%20Without%20Repeating%20Characters.java)
 
+[4 Longest Palindromic Substring](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Longest%20Palindromic%20Substring.java)
+
 [5 String to Integer (atoi)](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/String%20to%20Integer%20(atoi).java)
 
 [6 3Sum](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/3Sum.java)
