@@ -7,3 +7,5 @@
 [4 String to Integer (atoi)](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/String%20to%20Integer%20(atoi).java)
 
 [5 3Sum](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/3Sum.java)
+
+[6 Letter Combinations of a Phone Number](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Letter%20Combinations%20of%20a%20Phone%20Number.java)
