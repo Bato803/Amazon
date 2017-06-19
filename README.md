@@ -35,3 +35,5 @@
 [18 Binary Tree Level Order Traversal](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Binary%20Tree%20Level%20Order%20Traversal.java)
 
 [19 Pascal's Triangle](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Pascal's%20Triangle.java)
+
+[20 Best Time to Buy and Sell Stock](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Best%20Time%20to%20Buy%20and%20Sell%20Stock.java)
