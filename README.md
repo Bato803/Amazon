@@ -31,3 +31,5 @@
 [16 Gray Code](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Gray%20Code.java)
 
 [17 https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Validate%20Binary%20Search%20Tree.java]
+
+[18 Binary Tree Level Order Traversal](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Binary%20Tree%20Level%20Order%20Traversal.java)
