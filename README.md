@@ -29,3 +29,5 @@
 [15 Subsets](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Subsets.java)
 
 [16 Gray Code](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Gray%20Code.java)
+
+[17 https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Validate%20Binary%20Search%20Tree.java]
