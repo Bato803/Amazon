@@ -43,3 +43,5 @@
 [22 Word Ladder II](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Word%20Ladder%20II.java)
 
 [23 Copy List with Random Pointer](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Copy%20List%20with%20Random%20Pointer.java)
+
+[24 Word Break](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Word%20Break)
