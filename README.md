@@ -53,3 +53,5 @@
 [27 Min Stack](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Min%20Stack.java)
 
 [28 Intersection of Two Linked Lists](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Intersection%20of%20Two%20Linked%20Lists.java)
+
+[29 Reverse words in a string](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Reverse%20words%20in%20a%20string.java)
