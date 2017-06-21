@@ -47,3 +47,5 @@
 [24 Word Break](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Word%20Break.java)
 
 [25 Word Break II](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Word%20Break%20II.java)
+
+[26 LRU](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/LRU.java)
