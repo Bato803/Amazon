@@ -57,3 +57,5 @@
 [29 Reverse words in a string](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Reverse%20words%20in%20a%20string.java)
 
 [30 Binary Tree Right Side View](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Binary%20Tree%20Right%20Side%20View.java)
+
+[31 Number of Islands](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Number%20of%20Islands.java)
