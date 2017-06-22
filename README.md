@@ -61,3 +61,5 @@
 [31 Number of Islands](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Number%20of%20Islands.java)
 
 [32 Count Primes](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Count%20Primes.java)
+
+[33 Reverse Linked List](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Reverse%20Linked%20List.java)
