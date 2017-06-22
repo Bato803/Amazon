@@ -67,3 +67,5 @@
 [34 Kth Largest Element in an Array](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Kth%20Largest%20Element%20in%20an%20Array.java)
 
 [35 Palindrome Linked List](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Palindrome%20Linked%20List.java)
+
+[36 Lowest Common Ancestor of a Binary Search Tree](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree.java)
