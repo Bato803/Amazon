@@ -59,3 +59,5 @@
 [30 Binary Tree Right Side View](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Binary%20Tree%20Right%20Side%20View.java)
 
 [31 Number of Islands](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Number%20of%20Islands.java)
+
+[32 Count Primes](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Count%20Primes.java)
