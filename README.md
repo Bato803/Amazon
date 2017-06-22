@@ -63,3 +63,5 @@
 [32 Count Primes](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Count%20Primes.java)
 
 [33 Reverse Linked List](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Reverse%20Linked%20List.java)
+
+[34 Kth Largest Element in an Array](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Kth%20Largest%20Element%20in%20an%20Array.java)
