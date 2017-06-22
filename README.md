@@ -69,3 +69,5 @@
 [35 Palindrome Linked List](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Palindrome%20Linked%20List.java)
 
 [36 Lowest Common Ancestor of a Binary Search Tree](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree.java)
+
+[37 Lowest Common Ancestor of a Binary Tree](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.java)
