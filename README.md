@@ -79,3 +79,5 @@
 [40 Search a 2D Matrix II](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Search%20a%202D%20Matrix%20II.java)
 
 [41 Valid Anagram](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Valid%20Anagram.java)
+
+[42 Serialize and Deserialize Binary Tree](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Serialize%20and%20Deserialize%20Binary%20Tree.java)
