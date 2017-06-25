@@ -85,3 +85,5 @@
 [43 Insert Delete GetRandom O(1)](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Insert%20Delete%20GetRandom%20O(1).java)
 
 [44 First Unique Character in a String](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/First%20Unique%20Character%20in%20a%20String.java)
+
+[45 Rotate Function](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Rotate%20Function.java)
