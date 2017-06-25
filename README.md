@@ -87,3 +87,5 @@
 [44 First Unique Character in a String](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/First%20Unique%20Character%20in%20a%20String.java)
 
 [45 Rotate Function](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Rotate%20Function.java)
+
+[46 Third Maximum Number](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Third%20Maximum%20Number.java)
