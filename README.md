@@ -97,3 +97,5 @@
 [49 Sort Characters By Frequency](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Sort%20Characters%20By%20Frequency.java)
 
 [50 Repeated Substring Pattern](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Repeated%20Substring%20Pattern.java)
+
+[51 LFU Cache](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/LFU%20Cache.java)
