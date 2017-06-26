@@ -91,3 +91,5 @@
 [46 Third Maximum Number](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Third%20Maximum%20Number.java)
 
 [47 Find All Anagrams in a String](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Find%20All%20Anagrams%20in%20a%20String.java)
+
+[48 Serialize and Deserialize BST](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Serialize%20and%20Deserialize%20BST.java)
