@@ -95,3 +95,5 @@
 [48 Serialize and Deserialize BST](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Serialize%20and%20Deserialize%20BST.java)
 
 [49 Sort Characters By Frequency](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Sort%20Characters%20By%20Frequency.java)
+
+[50 Repeated Substring Pattern](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Repeated%20Substring%20Pattern.java)
