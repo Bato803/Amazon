@@ -89,3 +89,5 @@
 [45 Rotate Function](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Rotate%20Function.java)
 
 [46 Third Maximum Number](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Third%20Maximum%20Number.java)
+
+[47 Find All Anagrams in a String](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Find%20All%20Anagrams%20in%20a%20String.java)
