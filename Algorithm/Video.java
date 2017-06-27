@@ -24,10 +24,44 @@ public class Solution {
 }
 
 
+enum Type {
+
+    MOVIE("MOVIE"), SHORT_VIDEO("SHORT_VIDEO"), TV("TV");
+
+
+    String code;
+
+    Type(String code) {
+        this.code = code;
+
+
+    }
+
+
+    static Type getType(String code) {
+
+
+        for (Type t : Type.values()) {
+
+            if (code.equals(t.code)) {
+                return t;
+            }
+        }
+
+        return null;
+    }
+}
+
+
 class TV extends Video {
 
 
     private double time;
+    private Type type;
+
+    public TV() {
+        type = Type.TV;
+    }
 
     @Override
     void play(double offset) {
