@@ -106,3 +106,5 @@
 
 
 [52 Video](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Video.java)
+
+[53 VendingMachine](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/VendingMachine.java)
