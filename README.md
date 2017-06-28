@@ -108,3 +108,5 @@
 [52 Video](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Video.java)
 
 [53 VendingMachine](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/VendingMachine.java)
+
+[54 Spiral Matrix](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Spiral%20Matrix.java)
