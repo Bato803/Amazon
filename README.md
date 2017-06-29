@@ -114,3 +114,5 @@
 [55 Spiral Matrix II](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Spiral%20Matrix%20II.java)
 
 [56 Merge Intervals](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Merge%20Intervals.java)
+
+[57 ZigZag Conversion](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/ZigZag%20Conversion.java)
