@@ -118,3 +118,5 @@
 [57 ZigZag Conversion](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/ZigZag%20Conversion.java)
 
 [58 replace String](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Replace%20String.java)
+
+[59 Longest Increasing Subsequence](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Longest%20Increasing%20Subsequence.java)
