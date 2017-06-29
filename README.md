@@ -122,3 +122,5 @@
 [59 Longest Increasing Subsequence](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Longest%20Increasing%20Subsequence.java)
 
 [60 Longest Consecutive Sequence](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Longest%20Consecutive%20Sequence.java)
+
+[61 Longest Common Subsequence](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Longest%20Common%20Subsequence.java)
