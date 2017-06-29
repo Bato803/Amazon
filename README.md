@@ -116,3 +116,5 @@
 [56 Merge Intervals](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Merge%20Intervals.java)
 
 [57 ZigZag Conversion](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/ZigZag%20Conversion.java)
+
+[58 replace String](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Replace%20String.java)
