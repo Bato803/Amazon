@@ -120,3 +120,5 @@
 [58 replace String](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Replace%20String.java)
 
 [59 Longest Increasing Subsequence](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Longest%20Increasing%20Subsequence.java)
+
+[60 Longest Consecutive Sequence](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Longest%20Consecutive%20Sequence.java)
