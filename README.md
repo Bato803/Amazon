@@ -128,3 +128,5 @@
 [62 Chat Message](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/ChatMessage.java)
 
 [63 Message Delivery System](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Message%20Delivery%20System.java)
+
+[64 Get Point](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Get%20Point.java)
