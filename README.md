@@ -130,3 +130,5 @@
 [63 Message Delivery System](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Message%20Delivery%20System.java)
 
 [64 Get Point](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Get%20Point.java)
+
+[65 Largest Rectangle in Histogram](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Largest%20Rectangle%20in%20Histogram.java)
