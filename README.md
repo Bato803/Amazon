@@ -136,3 +136,5 @@
 [66 Maximal Square](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Maximal%20Square.java)
 
 [67 Max Points on a Line](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Max%20Points%20on%20a%20Line.java)
+
+[68 K closest points to the origin](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/K%20closest%20points%20to%20the%20origin.java)
