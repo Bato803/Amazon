@@ -132,3 +132,5 @@
 [64 Get Point](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Get%20Point.java)
 
 [65 Largest Rectangle in Histogram](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Largest%20Rectangle%20in%20Histogram.java)
+
+[66 Maximal Square](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Maximal%20Square.java)
