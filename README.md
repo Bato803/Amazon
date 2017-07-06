@@ -1,7 +1,12 @@
 
 OA:
 
+
+
 [1 Valid Parentheses](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Valid%20Parentheses.java)
+
+
+
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 
