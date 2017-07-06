@@ -140,3 +140,5 @@
 [68 K closest points to the origin](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/K%20closest%20points%20to%20the%20origin.java)
 
 [69 Roman](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Roman.java)
+
+[70 GetDistance](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/GetDistance.java)
