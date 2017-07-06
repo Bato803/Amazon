@@ -10,6 +10,8 @@ OA:
 [3 Find the min steps of maze](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Find%20the%20min%20steps%20of%20maze.java)
 
 
+[4 Lowest Common Ancestor of a Binary Tree](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.java)
+
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
