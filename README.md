@@ -13,6 +13,9 @@ OA:
 [4 Lowest Common Ancestor of a Binary Tree](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.java)
 
 
+
+[5 Distance](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Distance.java)
+
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 
