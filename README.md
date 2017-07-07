@@ -25,6 +25,8 @@ OA:
 
 [9 Union2](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Union2.java)
 
+
+[10 Menu](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Menu.java)
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 
