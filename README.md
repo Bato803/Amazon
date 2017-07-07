@@ -28,7 +28,7 @@ OA:
 
 [10 Menu](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Menu.java)
 
-
+[11 Palindrome Number](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Palindrome%20Number.java)
 
 
 
