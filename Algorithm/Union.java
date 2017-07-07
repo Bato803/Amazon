@@ -7,9 +7,7 @@ public class MergeEmailLists {
 		}
 
 		int m = emails.length;
-		int[]
-			parent =
-			new int[m]; // initialize parent array, at the begining, each list is in its own group
+		int[] parent = new int[m]; // initialize parent array, at the begining, each list is in its own group
 		for (int i = 0; i < m; i++) {
 			parent[i] = i;
 		}
