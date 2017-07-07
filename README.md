@@ -16,6 +16,8 @@ OA:
 
 [5 Distance](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Distance.java)
 
+[6 Movie](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Movie.java)
+
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 
