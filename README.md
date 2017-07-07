@@ -23,6 +23,8 @@ OA:
 
 [8 Union](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Union.java)
 
+[9 Union2](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Union2.java)
+
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 
