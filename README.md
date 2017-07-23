@@ -181,3 +181,5 @@ OA:
 [70 GetDistance](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/GetDistance.java)
 
 [71 Merge Tree](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Merge%20Two%20Binary%20Trees.java)
+
+[72 Replace String](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/ReplaceString.java)
