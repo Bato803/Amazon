@@ -183,3 +183,5 @@ OA:
 [71 Merge Tree](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Merge%20Two%20Binary%20Trees.java)
 
 [72 Replace String](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/ReplaceString.java)
+
+[73 Unique Paths](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Unique%20Paths.java)
