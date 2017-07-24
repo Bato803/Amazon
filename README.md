@@ -185,3 +185,5 @@ OA:
 [72 Replace String](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/ReplaceString.java)
 
 [73 Unique Paths](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Unique%20Paths.java)
+
+[74 Binary Tree Maximum Path Sum](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Binary%20Tree%20Maximum%20Path%20Sum.java)
