@@ -197,3 +197,5 @@ OA:
 [78 Reconstruct Itinerary](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Reconstruct%20Itinerary.java)
 
 [79 Subarray Sum](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Subarray%20Sum.java)
+
+[80 Single Number](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Single%20Number.java)
