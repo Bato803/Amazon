@@ -201,3 +201,5 @@ OA:
 [80 Single Number](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Single%20Number.java)
 
 [81 Wiggle Sort](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Wiggle%20Sort.java)
+
+[82 Get End](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Get%20End.java)
