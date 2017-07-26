@@ -199,3 +199,5 @@ OA:
 [79 Subarray Sum](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Subarray%20Sum.java)
 
 [80 Single Number](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Single%20Number.java)
+
+[81 Wiggle Sort](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Wiggle%20Sort.java)
