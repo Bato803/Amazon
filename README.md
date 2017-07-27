@@ -215,3 +215,5 @@ OA:
 [87 Subsequence equal sum](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Subsequence%20equal%20sum.java)
 
 [88 Read4](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Read4.java)
+
+[89 Trie]
