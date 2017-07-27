@@ -207,3 +207,5 @@ OA:
 [83 Longest Common Subsequence](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Longest%20Common%20Subsequence%20.java)
 
 [84 Multiply Strings](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Multiply%20Strings.java)
+
+[85 Deque](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Deque.java)
