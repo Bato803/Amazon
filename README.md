@@ -213,3 +213,5 @@ OA:
 [86 Partition Equal Subset Sum](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Partition%20Equal%20Subset%20Sum.java)
 
 [87 Subsequence equal sum](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Subsequence%20equal%20sum.java)
+
+[88 Read4](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Read4.java)
