@@ -209,3 +209,5 @@ OA:
 [84 Multiply Strings](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Multiply%20Strings.java)
 
 [85 Deque](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Deque.java)
+
+[86 Partition Equal Subset Sum](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Partition%20Equal%20Subset%20Sum.java)
