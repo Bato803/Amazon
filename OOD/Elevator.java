@@ -148,16 +148,13 @@ public class ElevatorCar {
 		if (downRequestTime < upRequestTime) {
 
 			action = Action.DOWN;
-
-			curQueue = new PriorityQueue<>(new DownComparator());
 			curQueue = downQueue;
 
 			downQueue.clear();
 			downRequestTime = Long.MAX_VALUE;
 		} else {
+			
 			action = Action.UP;
-
-			curQueue = new PriorityQueue<>(new UpComparator());
 			curQueue = upQueue;
 
 			upQueue.clear();
