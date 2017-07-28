@@ -34,6 +34,11 @@ OA:
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
+OOD
+
+[1 Elevator](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/OOD/Elevator.java)
+
+--------------------------------------------------------------------------------------------------------------------------------------
 
 [1 Two Sum](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Two%20Sum.java)
 
