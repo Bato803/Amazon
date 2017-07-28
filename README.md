@@ -38,6 +38,11 @@ OOD
 
 [1 Elevator](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/OOD/Elevator.java)
 
+[2 Poker](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/OOD/Poker.java)
+
+[3 Jukebox](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/OOD/Jukebox.java)
+
+[4 OnlineReaderSystem](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/OOD/OnlineReaderSystem.java)
 --------------------------------------------------------------------------------------------------------------------------------------
 
 [1 Two Sum](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Two%20Sum.java)
