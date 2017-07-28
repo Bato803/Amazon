@@ -43,6 +43,8 @@ OOD
 [3 Jukebox](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/OOD/Jukebox.java)
 
 [4 OnlineReaderSystem](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/OOD/OnlineReaderSystem.java)
+
+[5 Othello](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/OOD/Othello.java)
 --------------------------------------------------------------------------------------------------------------------------------------
 
 [1 Two Sum](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Two%20Sum.java)
