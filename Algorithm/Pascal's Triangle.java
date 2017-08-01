@@ -1,35 +1,44 @@
 public class Solution {
     public List<List<Integer>> generate(int numRows) {
         
-        
         List<List<Integer>> res = new ArrayList<>();
         
-        if(numRows <= 0){
-            return res;
+        
+        
+        if(numRows == 0){
+            
+            return res;            
         }
         
         List<Integer> temp = new ArrayList<>();
         temp.add(1);
         res.add(new ArrayList<>(temp));
         
+        List<Integer> prev = new ArrayList<>();
+        
         for(int i = 2; i <= numRows; i++){
-            List<Integer> r = new ArrayList<Integer>();    
-
+            
+            List<Integer> r = new ArrayList<>();
+            
             r.add(1);
-            for(int j = 0; j < temp.size() - 1; j++){
-                r.add(temp.get(j) + temp.get(j + 1));
+            
+            for (int j = prev.size() - 2; j >= 0; j--) {
+                
+                r.add(prev.get(j) + prev.get(j + 1));
             }
             
             r.add(1);
-            temp = r;
-            res.add(new ArrayList<>(temp));
+            
+            prev = r;
+            
+            res.add(new ArrayList<>(r));
+            
         }
         
         return res;
         
     }
 }
-
 public class Solution {
 
     public List<Integer> getRow(int rowIndex) {
@@ -47,3 +56,4 @@ public class Solution {
         }
         return result;
     }
+}
