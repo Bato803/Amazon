@@ -48,6 +48,9 @@ OOD
 
 [6 Chat Message](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/OOD/ChatMessage.java)
 
+[7 Message Delivery System](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/OOD/Message%20Delivery%20System.java)
+
+
 
 
 --------------------------------------------------------------------------------------------------------------------------------------
@@ -179,8 +182,6 @@ OOD
 
 [61 Longest Common Subsequence](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Longest%20Common%20Subsequence.java)
 
-
-[63 Message Delivery System](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Message%20Delivery%20System.java)
 
 [64 Get Point](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Get%20Point.java)
 
