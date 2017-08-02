@@ -47,6 +47,9 @@ OOD
 [5 Othello](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/OOD/Othello.java)
 
 [6 Chat Message](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/OOD/ChatMessage.java)
+
+
+
 --------------------------------------------------------------------------------------------------------------------------------------
 
 [1 Two Sum](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Two%20Sum.java)
