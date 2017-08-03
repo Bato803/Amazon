@@ -1,55 +1,28 @@
 public class Solution {
     public boolean canPartition(int[] nums) {
-        
-        
-        if(nums == null || nums.length == 0){
-            
+        // check edge case
+        if (nums == null || nums.length == 0) {
+            return true;
+        }
+        // preprocess
+        int volumn = 0;
+        for (int num : nums) {
+            volumn += num;
+        }
+        if (volumn % 2 != 0) {
             return false;
         }
-        
-        int sum = 0;
-        
-        for(int num : nums){
-            
-            sum += num;
-        }
-        
-        if ((sum & 1) == 1) {
-            return false;
-        }
-        
-        
-        sum /= 2;
-        int m = nums.length;
-        
-        boolean[][] dp = new boolean[m + 1][sum + 1];
-        
-        
-        dp[0][0] = true;
-        
-        for(int i = 1; i <= m; i++){
-            
-            dp[i][0] = true;
-        }
-        
-        for (int j = 1; j <= sum; j++) {
-            dp[0][j] = false;
-        }
-    
-        
-        for(int i = 1; i <= m; i++){
-            
-            for(int j = 1; j <= sum; j++){
-                
-                dp[i][j] = dp[i - 1][j];
-                if (j >= nums[i-1]) {
-                    dp[i][j] = (dp[i][j] || dp[i-1][j-nums[i-1]]);
-                }
-                
+        volumn /= 2;
+        // dp def
+        boolean[] dp = new boolean[volumn + 1];
+        // dp init
+        dp[0] = true;
+        // dp transition
+        for (int i = 1; i <= nums.length; i++) {
+            for (int j = volumn; j >= nums[i-1]; j--) {
+                dp[j] = dp[j] || dp[j - nums[i-1]];
             }
         }
-        
-        return dp[m][sum];
-        
+        return dp[volumn];
     }
 }
