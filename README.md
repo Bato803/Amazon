@@ -235,6 +235,7 @@ OOD
 
 [89 Trie]
 
+[90 Bit_Divide and multiplication](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Bit_Divide%20and%20multiplication.java)
 
 
 _________________________________________________________________________________________________________________________________
