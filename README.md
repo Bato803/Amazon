@@ -239,6 +239,8 @@ OOD
 
 [91 Largest Number](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Largest%20Number.java)
 
+[92 Linked List Random Node](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Linked%20List%20Random%20Node.java)
+
 _________________________________________________________________________________________________________________________________
 
 [1 Regular Expression Matching](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Regular%20Expression%20Matching.java)
