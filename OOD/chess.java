@@ -181,6 +181,30 @@ public class Command {
 }
 
 
+public class Player  {
+
+    private PlayerColor playerColor;
+    private List<Piece> pieces = new ArrayList<>();
+
+
+    public PlayerColor getPlayerColor() {
+        return playerColor;
+    }
+
+    public void setPlayerColor(PlayerColor playerColor) {
+        this.playerColor = playerColor;
+    }
+
+    public List<Piece> getPieces() {
+        return pieces;
+    }
+
+    public void setPieces(List<Piece> pieces) {
+        this.pieces = pieces;
+    }
+}
+
+
 public class ChessGame {
     private Board board;
     private Player p1;
