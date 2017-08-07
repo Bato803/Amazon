@@ -50,7 +50,7 @@ OOD
 
 [7 Message Delivery System](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/OOD/Message%20Delivery%20System.java)
 
-
+[8 chess](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/OOD/chess.java)
 
 
 --------------------------------------------------------------------------------------------------------------------------------------
