@@ -241,6 +241,7 @@ OOD
 
 [92 Linked List Random Node](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Linked%20List%20Random%20Node.java)
 
+[93 Tiny_URL](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Tiny_URL.java)
 _________________________________________________________________________________________________________________________________
 
 [1 Regular Expression Matching](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Regular%20Expression%20Matching.java)
