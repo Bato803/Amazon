@@ -52,6 +52,8 @@ OOD
 
 [8 chess](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/OOD/chess.java)
 
+[9 https://github.com/xunhuanfengliuxiang/Amazon/blob/master/OOD/VendingMachine.java](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/OOD/VendingMachine.java)
+
 
 --------------------------------------------------------------------------------------------------------------------------------------
 
