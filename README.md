@@ -4,6 +4,13 @@ OA:
 
 [1 Same length no repeat substring](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/SameLengthNoRepeatSubString.java)
 
+[2 Longest Screen](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/LongestScreen)
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
 
 [1 Valid Parentheses](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Valid%20Parentheses.java)
 
