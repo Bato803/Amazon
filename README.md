@@ -8,6 +8,8 @@ OA:
 
 [3 Get min string array](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/GetMinStringArray.java)
 
+[4 top K Frequent Words](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Top%20K%20Frequent%20Words.java)
+
 
 ------------------------------------------------------------------------------------------------------------------------------
 
