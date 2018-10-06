@@ -6,7 +6,7 @@ OA:
 
 [2 Longest Screen](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/LongestScreen)
 
-
+[3 Get min string array](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/GetMinStringArray.java)
 
 
 ------------------------------------------------------------------------------------------------------------------------------
