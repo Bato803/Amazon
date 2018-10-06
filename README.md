@@ -12,6 +12,10 @@ OA:
 
 [5 Log Sorting](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/LogSorting.java)
 
+[6 K Closest Points](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/K%20Closest%20Points.java)
+
+
+
 
 ------------------------------------------------------------------------------------------------------------------------------
 
