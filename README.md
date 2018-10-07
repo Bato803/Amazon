@@ -24,7 +24,7 @@ OA:
 
 [10 Min Path Sum](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/MinPathSum.java)
 
-
+[11 Unique Substring](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Unique%20Substring.java)
 
 
 ------------------------------------------------------------------------------------------------------------------------------
