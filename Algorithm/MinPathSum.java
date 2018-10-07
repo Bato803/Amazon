@@ -81,3 +81,86 @@ public class MinPathSum {
         return -1;
     }
 }
+
+
+
+
+public class Solution {
+    /**
+     * @param map: the map
+     * @return: can you reach the endpoint
+     */
+    public boolean reachEndpoint(int[][] map) {
+        // Write your code here
+
+
+        if (map == null || map.length == 0 || map[0].length == 0) {
+
+
+            return false;
+        }
+
+        int m = map.length;
+        int n = map[0].length;
+
+
+        Queue<int[]> q = new LinkedList<>();
+
+        boolean[][] check = new boolean[m][n];
+
+
+        check[0][0] = true;
+
+
+        q.offer(new int[]{0, 0});
+
+        int[] xs = new int[]{1, 0, -1, 0};
+
+        int[] ys = new int[]{0 , 1, 0, -1};
+
+
+        while (!q.isEmpty()) {
+
+
+            int size = q.size();
+
+            for(int i = 0; i < size; i++){
+
+
+                int[] poll = q.poll();
+
+
+                for(int j = 0; j < 4; j++){
+
+                    if(poll != null) {
+
+                        if(map[poll[0]][poll[1]] == 9){
+
+                            return true;
+                        }
+
+                        int x = poll[0] + xs[j];
+                        int y = poll[1] + ys[j];
+
+
+                        if(x < 0 || x >= m || y < 0 || y >= n || check[x][y] || map[x][y] == 0){
+                            
+                            continue;
+                        }
+                        
+                        check[x][y] = true;
+                        q.offer(new int[]{x, y});
+
+                    }
+                }
+
+
+            }
+
+        }
+        
+        return false;
+
+
+    }
+}
