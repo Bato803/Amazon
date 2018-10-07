@@ -6,9 +6,6 @@ all_tags = ["made", "a","b","c","in", "china","made","b","c","d"]
 */
 
 
-
-
-
 package am;
 
 import java.util.HashMap;
