@@ -4,7 +4,7 @@ OA:
 
 [1 Same length no repeat substring --Find Substring](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/SameLengthNoRepeatSubString.java)
 
-[2 Longest Screen](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/LongestScreen)
+[2 Longest Screen](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/LongestScreen.java)
 
 [3 Get min string array](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/GetMinStringArray.java)
 
