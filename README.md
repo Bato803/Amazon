@@ -54,6 +54,9 @@ OA:
 [22 Minimum Sum Path](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Minimum%20Sum%20Path.java)
 
 
+[23 Two Sum - Unique pairs](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Two%20Sum%20-%20Unique%20pairs.java)
+
+
 
 ------------------------------------------------------------------------------------------------------------------------------
 
