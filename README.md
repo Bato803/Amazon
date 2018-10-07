@@ -26,6 +26,14 @@ OA:
 
 [11 Unique Substring](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Unique%20Substring.java)
 
+[12 Two Sum - Less than or equal to target](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Two%20Sum%20-%20Less%20than%20or%20equal%20to%20target.java)
+
+
+
+[13 Copy List with Random Pointer](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Copy%20List%20with%20Random%20Pointer.java)
+
+
+
 
 ------------------------------------------------------------------------------------------------------------------------------
 
@@ -56,7 +64,6 @@ OA:
 [10 Menu](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Menu.java)
 
 [11 Palindrome Number](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Palindrome%20Number.java)
-
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------
