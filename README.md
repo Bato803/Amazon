@@ -40,6 +40,8 @@ OA:
 
 [16 Closest Target Value](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Closest%20Target%20Value.java)
 
+[17 Window Sum](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Window%20Sum.java)
+
 
 ------------------------------------------------------------------------------------------------------------------------------
 
