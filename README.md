@@ -22,6 +22,11 @@ OA:
 [9 BST Node Distance](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/BSTNodeDistance.java)
 
 
+[10 Min Path Sum](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/MinPathSum.java)
+
+
+
+
 ------------------------------------------------------------------------------------------------------------------------------
 
 
