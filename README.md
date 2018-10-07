@@ -71,6 +71,8 @@ OA:
 
 [11 Palindrome Number](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Palindrome%20Number.java)
 
+[12 Dot Product](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Dot%20Product.java)
+
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
