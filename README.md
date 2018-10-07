@@ -47,6 +47,8 @@ OA:
 
 [19 Climbing Stairs II](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Climbing%20Stairs%20II.java)
 
+[20 string Compression](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/string%20Compression.java)
+
 
 ------------------------------------------------------------------------------------------------------------------------------
 
