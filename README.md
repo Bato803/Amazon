@@ -17,6 +17,9 @@ OA:
 [7 Most Common Word](https://github.com/xunhuanfengliuxiang/Amazon/blob/ea9495cda6dbe9f4f78fd6186d421150534b0773/Algorithm/Most%20Common%20Word.java)
 
 
+[8 Max Ship Distance](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/MaxShipDistance.java)
+
+
 ------------------------------------------------------------------------------------------------------------------------------
 
 
