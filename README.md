@@ -42,6 +42,8 @@ OA:
 
 [17 Window Sum](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Window%20Sum.java)
 
+[18 Second Max of Array](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Second%20Max%20of%20Array.java)
+
 
 ------------------------------------------------------------------------------------------------------------------------------
 
