@@ -19,6 +19,8 @@ OA:
 
 [8 Max Ship Distance](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/MaxShipDistance.java)
 
+[9 BST Node Distance](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/BSTNodeDistance.java)
+
 
 ------------------------------------------------------------------------------------------------------------------------------
 
