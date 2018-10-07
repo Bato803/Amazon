@@ -33,6 +33,9 @@ OA:
 [13 Copy List with Random Pointer](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Copy%20List%20with%20Random%20Pointer.java)
 
 
+[14 Minimum Difference](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Minimum%20Difference.java)
+
+
 
 
 ------------------------------------------------------------------------------------------------------------------------------
