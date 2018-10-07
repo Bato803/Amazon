@@ -51,6 +51,8 @@ OA:
 
 [21 Insert into a Cyclic Sorted List](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Insert%20into%20a%20Cyclic%20Sorted%20List.java)
 
+[22 Minimum Sum Path](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/Minimum%20Sum%20Path.java)
+
 
 
 ------------------------------------------------------------------------------------------------------------------------------
