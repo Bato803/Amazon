@@ -14,7 +14,7 @@ OA:
 
 [6 K Closest Points](https://github.com/xunhuanfengliuxiang/Amazon/blob/master/Algorithm/K%20Closest%20Points.java)
 
-
+[7 Most Common Word](https://github.com/xunhuanfengliuxiang/Amazon/blob/ea9495cda6dbe9f4f78fd6186d421150534b0773/Algorithm/Most%20Common%20Word.java)
 
 
 ------------------------------------------------------------------------------------------------------------------------------
